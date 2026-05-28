@@ -1,30 +1,35 @@
 # BMW Global Sales & Electrical Vehicles Adoption Analysis (2018–2025)
 
 This project analyzes BMW global sales and Electrical Vehicles adoption trends from 2018 to 2025.  
-It brings together raw and cleaned data, SQL, and Power BI to show how sales evolved over time and how Electrical Vehicles adoption changed across the period.
+It combines raw and cleaned datasets, SQL analysis, and Power BI visualization to explore sales performance, market evolution, and the transition toward Electrical Vehicles.
 
 ## Project Files
 
-- `BMW Global Sales & Electrical Vehicles Adoption Analysis (2018–2025)_Mitev.pdf` — final report.
-- `bmw_global_sales_2018_2025.xlsx` — raw sales data.
-- `Final_Project_BMW_Mitev.xlsx` — cleaned and prepared dataset.
-- `Final_Project_BMW_Mitev.sql` — SQL queries used for analysis.
-- `Final_Projecy_BMW_MITEV.pbix` — Power BI dashboard file.
+- `report_bmw_global_sales_&_ev_adoption_analysis_2018_2025.pdf` — final written report.
+- `raw_data_bmw_global_sales_2018_2025.xlsx` — raw dataset.
+- `cleaned_data_bmw_global_sales_2018_2205.xlsx` — cleaned and prepared dataset.
+- `analysis_bmw.sql` — SQL queries used for the analysis.
+- `dashboard_bmw.pbix` — Power BI dashboard file.
 
 ## Project Overview
 
 The analysis focuses on:
-- Global BMW sales trends from 2018 to 2025.
-- Electrical Vehicles adoption growth and market transition.
-- Comparison between raw and cleaned data.
-- Visual and analytical insights for business reporting.
+- BMW global sales trends from 2018 to 2025.
+- Electrical Vehicles adoption growth over time.
+- Data cleaning and preparation workflow.
+- SQL-based exploration of business data.
+- Dashboard insights created in Power BI.
 
 ## Tools Used
 
 - Microsoft Excel
 - SQL
 - Power BI
-- Data cleaning and analysis
+
+## Skills Applied
+
+- Data cleaning
+- Data analysis
 - Data visualization
 
 ## Author
